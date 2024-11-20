@@ -1,0 +1,11 @@
+commit 82c4541785add442f722a9248a9641c579f11bd6
+Author: Amine <135628962+ZHAMAM@users.noreply.github.com>
+Date:   Wed Nov 20 10:19:05 2024 +0100
+
+    Task1 Folder
+
+commit 65e88a8325699f846746975bb5762e91220d3ba0
+Author: Ayoub_EL-Glile <159739109+elglile@users.noreply.github.com>
+Date:   Wed Nov 20 10:13:06 2024 +0100
+
+    Initial commit
