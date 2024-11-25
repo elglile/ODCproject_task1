@@ -1,3 +1,21 @@
+Task1 github
+clone repository.
+Create Task1 folder in the master branch. Create and push ./Task1/README.md file.
+
+Create new branch dev. Create and push any test file.
+
+4. Create new branch %USERNAME-new_feature. 
+Add README.md file to your %USERNAME-new_feature branch
+6. Check your repo with git status command
+7. Add .gitignore file to ignore all files whose name begins “.”
+8. Commit and push changes to github repo. 
+
+9. Create Pull Request to the dev branch.
+10. Merge your branch with the dev branch and create Pull Request tothe master branch. Merge dev with master.
+11. Checkout to %USERNAME-new_feature, make changes in README.md and commit them. Revert last commit in %USERNAME-new_feature branch.
+12. Check your repo with git log command, create log.txt file in master branch and save “git log” output in it.
+13. Delete local and remote branch %USERNAME-new_feature.
+14. Add all used command to the git_commands.md file in the dev branch.
 git commande here
 
 git clone https://github.com/elglile/ODCproject_task1.git # Clone the Repository
@@ -6,6 +24,7 @@ cd ODCproject_task1 #Enter folder
 
 # Initialize git in your project directory
 git init
+
 
 # Create the Task1 folder and README.md file
 mkdir Task1
@@ -74,3 +93,4 @@ git push
 git branch -D %elg-new_feature
 git push origin --delete %elg-new_feature
 git status
+
